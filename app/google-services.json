@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780383290109",
+    "project_id": "kababji-palace",
+    "storage_bucket": "kababji-palace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780383290109:android:4b5cdd6fcd34c3e72ab494",
+        "android_client_info": {
+          "package_name": "com.example.kababjipalace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780383290109-tsd6dirarfqpunaoh66cenf2nbejamov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJPrLEzDu4YEKIHTf1T5UFWZmZlFcDus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780383290109-tsd6dirarfqpunaoh66cenf2nbejamov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
