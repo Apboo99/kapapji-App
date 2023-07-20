@@ -77,7 +77,7 @@ public class CartActivity extends AppCompatActivity {
     }
 
     private void calculateCard() {
-        double percentTax=0.05;
+        double percentTax=0.06;
         double delivery=45;
         tax=Math.round(manageCart.getTotalFee()*percentTax*100.0)/100.0;
         double total=Math.round(manageCart.getTotalFee()+tax+delivery)*100.0/100.0;
